@@ -107,9 +107,9 @@
   #header .header-img img{
        width: 60%;
   }
-  /* footer{
+  footer{
        display: none;
-  } */
+  }
 }
 @media (max-width: 768px){
   #header{
